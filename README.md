@@ -5,6 +5,7 @@ A checklist for project owners to measure their open source project. The checkli
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md)
 
 ---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table Of Contents**
@@ -14,14 +15,15 @@ A checklist for project owners to measure their open source project. The checkli
   - [README](#readme)
   - [CONTRIBUTING](#contributing)
   - [Code of Conduct](#code-of-conduct)
+  - [If your project is on GitHub](#if-your-project-is-on-github)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
----
+
+--- 
 
 ## Checklist
-
 ### Basic
 - [ ] Project is public.
 - [ ] Project has a README file.
@@ -58,6 +60,7 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] Project has a short description on version control system (e.g. description on Github).
 - [ ] Releated topics are added to the repository.
 - [ ] Labels are used to highlight the issues ('good first issue' for beginners etc.).
+
 ---
 
 ## Contributing
