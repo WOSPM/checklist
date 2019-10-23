@@ -28,7 +28,6 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] Project has a LICENSE.
 - [ ] Project has a CONTRIBUTING file.
 - [ ] Project has a CODE_OF_CONDUCT file.
-- [ ] Project has a short description on version control system (e.g. description on Github).
 
 ### README
 - [ ] README explains what this project does.
@@ -40,11 +39,14 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] README has a table of contents (ToC) at very top of the file.
 
 ### CONTRIBUTING
+- [ ] CONTRIBUTING is in the root directory.
 - [ ] CONTRIBUTING has a welcome message.
 - [ ] CONTRIBUTING explains the types of contributions asked.
 - [ ] CONTRIBUTING explains how to set up your environment and run tests.
 - [ ] CONTRIBUTING explains how to suggest a new feature.
 - [ ] CONTRIBUTING explains how to file a bug report.
+- [ ] CONTRIBUTING has a table of contents (ToC) at very top of the file.
+- [ ] CONTRIBUTING has style guides (coding conventions) written.
 
 ### Code of Conduct
 - [ ] CODE_OF_CONDUCT explains where the code of conduct takes effect.
@@ -52,6 +54,10 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] CODE_OF_CONDUCT explains what happens if someone violates the code of conduct.
 - [ ] CODE_OF_CONDUCT explains how someone can report violations.
 
+### If your project is on GitHub
+- [ ] Project has a short description on version control system (e.g. description on Github).
+- [ ] Releated topics are added to the repository.
+- [ ] Labels are used to highlight the issues ('good first issue' for beginners etc.).
 ---
 
 ## Contributing
