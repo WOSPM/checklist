@@ -50,6 +50,7 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] CODE_OF_CONDUCT explains what happens if someone violates the code of conduct.
 - [ ] CODE_OF_CONDUCT explains how someone can report violations.
 
+---
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for information.
