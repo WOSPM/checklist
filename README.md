@@ -20,7 +20,8 @@ A checklist for project owners to measure their open source project. The checkli
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
---- 
+---
+
 ## Checklist
 
 ### Basic
