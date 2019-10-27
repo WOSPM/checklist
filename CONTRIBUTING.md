@@ -4,7 +4,6 @@ Contributions are **welcome** and will be fully **credited**.
 
 We accept contributions via Pull Requests on [Github](https://github.com/WOSPM/checklist).
 
-
 ## Pull Requests
 
 - **Sync** - Please make sure your repository is up to date with ours to avoid conflicts as much as possible.

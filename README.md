@@ -3,11 +3,11 @@
 A checklist for project owners to measure their open source project. The checklist is created based on the [Open Source Guides](https://opensource.guide/).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md)
----
 
+---
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table Of Contents**
+## Table Of Contents
 
 - [Checklist](#checklist)
   - [Basic](#basic)
@@ -19,7 +19,6 @@ A checklist for project owners to measure their open source project. The checkli
 - [Code of Conduct](#code-of-conduct-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 --- 
 
 ## Checklist
@@ -71,7 +70,6 @@ A checklist for project owners to measure their open source project. The checkli
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for information.
-
 
 ## Code of Conduct
 
