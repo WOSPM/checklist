@@ -2,7 +2,7 @@
 
 A checklist for project owners to measure their open source project. The checklist is created based on the [Open Source Guides](https://opensource.guide/).
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM](https://img.shields.io/badge/WOSPM-Welcoming-green)
 
 ---
 
@@ -43,8 +43,8 @@ A checklist for project owners to measure their open source project. The checkli
 ### CONTRIBUTING
 - [ ] CONTRIBUTING is in the root directory.
 - [ ] CONTRIBUTING has a welcome message.
-- [ ] CONTRIBUTING explains the types of contributions asked.
-- [ ] CONTRIBUTING explains how to set up your environment and run tests.
+- [ ] CONTRIBUTING explains the types of contributions requested.
+- [ ] CONTRIBUTING explains how to set up the environments and run tests.
 - [ ] CONTRIBUTING explains how to suggest a new feature.
 - [ ] CONTRIBUTING explains how to file a bug report.
 - [ ] CONTRIBUTING has a table of contents (ToC) at very top of the file.
