@@ -4,7 +4,6 @@ Contributions are **welcome** and will be fully **credited**.
 
 We accept contributions via Pull Requests on [Github](https://github.com/WOSPM/checklist).
 
-
 ## Pull Requests
 
 - **Sync** - Please make sure your repository is up to date with ours to avoid conflicts as much as possible.
@@ -13,6 +12,7 @@ We accept contributions via Pull Requests on [Github](https://github.com/WOSPM/c
 - **Send coherent history** - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) before submitting.
 
 ## Add New Translation
+
 - Fork the repository.
 - Translate the `README.md` file.
 - write the translations to a new file with naming schema (`README-[Language-code].md`), [Available languages codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
