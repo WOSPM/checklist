@@ -36,6 +36,7 @@ A checklist for project owners to measure their open source project. The checkli
 
 - [ ] README explains what this project does.
 - [ ] README explains why this project is useful.
+- [ ] README explains how to install.
 - [ ] README explains how users get started.
 - [ ] README has link to CONTRIBUTING file.
 - [ ] README has link to CODE_OF_CONDUCT file.
