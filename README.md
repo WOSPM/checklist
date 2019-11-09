@@ -73,8 +73,8 @@ A checklist for project owners to measure their open source project. The checkli
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detail.
 
 ## Code of Conduct
 
-See [CODE_OF_CONDUCT](CODE_OF_CONDUCT) for information.
+See [CODE_OF_CONDUCT](CODE_OF_CONDUCT) for detail.
