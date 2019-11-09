@@ -66,6 +66,8 @@ A checklist for project owners to measure their open source project. The checkli
 - [ ] Project has a short description on version control system (e.g. description on Github).
 - [ ] Releated topics are added to the repository.
 - [ ] Labels are used to highlight the issues ('good first issue' for beginners etc.).
+- [ ] Pull request template is created.
+- [ ] Issue template(s) is/are created.
 
 ---
 
