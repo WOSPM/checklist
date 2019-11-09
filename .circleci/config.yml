@@ -25,6 +25,4 @@ workflows:
   build_and_create:
     jobs:
       - wospm-checker
-      - doc-lint:
-        requires:
-          - wospm-checker
+      - doc-lint
