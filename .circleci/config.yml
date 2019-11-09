@@ -11,7 +11,6 @@ jobs:
           name: WOSPM-Checker
           no_output_timeout: 20m
           command: mkdir /tmp/tool && cd /tmp/tool && composer require --dev wospm/checker && cd - && /tmp/tool/wospm-checker
-  
   doc-lint:
     docker:
       - image: circleci/node:9.8
