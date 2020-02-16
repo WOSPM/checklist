@@ -2,7 +2,7 @@
 
 A checklist for project owners to measure their open source project. The checklist is created based on the [Open Source Guides](https://opensource.guide/).
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) [![CircleCI](https://circleci.com/gh/WOSPM/checklist.svg?style=svg)](https://circleci.com/gh/WOSPM/checklist) ![WOSPM](https://img.shields.io/badge/WOSPM-Welcoming-green)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) [![CircleCI](https://circleci.com/gh/WOSPM/checklist.svg?style=svg)](https://circleci.com/gh/WOSPM/checklist) ![WOSPM Checker](https://github.com/WOSPM/checklist/workflows/WOSPM%20Checker/badge.svg)
 
 ---
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
