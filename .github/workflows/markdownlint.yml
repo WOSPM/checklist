@@ -1,0 +1,19 @@
+on: [push, pull_request]
+name: Markdown Linter Checks
+jobs:
+  markdown_linter_checks:
+    runs-on: ubuntu-latest
+    name: Markdown Files
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Project Markdown Linter Check
+      uses: nosborn/github-action-markdown-cli@v1.1.1
+      with:
+        files: "*.md CODE_OF_CONDUCT"
+        config_file: ".markdownlint.json"
+    - name: Metrics Markdown Linter Check
+      uses: nosborn/github-action-markdown-cli@v1.1.1
+      with:
+        files: "mdocs/*.md"
+        config_file: ".markdownlint.json"
