@@ -73,8 +73,18 @@ A checklist for project owners to measure their open source project. The checkli
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detail.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Code of Conduct
 
-See [CODE_OF_CONDUCT](CODE_OF_CONDUCT) for detail.
+See [CODE_OF_CONDUCT](CODE_OF_CONDUCT) for details.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
