@@ -84,7 +84,13 @@ See [CODE_OF_CONDUCT](CODE_OF_CONDUCT) for details.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/tjrgg"><img src="https://avatars.githubusercontent.com/u/11968358?v=4" width="100px;" alt=""/><br /><sub><b>Tyler Richards</b></sub></a></td>
+  </tr>
+</table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
